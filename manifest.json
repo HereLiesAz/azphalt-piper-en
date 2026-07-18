@@ -1,0 +1,28 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.piper-en",
+  "name": "Piper (English)",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "MIT",
+  "compat": ">=0.1",
+  "description": "Fast on-device neural text-to-speech; ships an English voice. Uses: voiceover / narration; auto-read captions; accessibility audio.",
+  "author": "azphalt",
+  "homepage": "https://github.com/HereLiesAz/azphalt-piper-en",
+  "assets": [
+    {
+      "type": "onnx",
+      "path": "",
+      "role": "text-to-speech",
+      "remoteUrl": "https://github.com/HereLiesAz/azphalt-piper-en/releases/latest/download/tts.onnx",
+      "modelLicense": "MIT (Piper / VITS, Rhasspy); voice CC-BY-4.0 (Lessac)",
+      "tags": [
+        "tts",
+        "voice",
+        "speech",
+        "audio"
+      ]
+    }
+  ],
+  "files": {}
+}
