@@ -6,8 +6,8 @@
   "kind": "asset",
   "license": "MIT",
   "compat": ">=0.1",
-  "author": "azphalt",
   "description": "Fast on-device neural text-to-speech; ships an English voice. Uses: voiceover / narration; auto-read captions; accessibility audio.",
+  "author": "HereLiesAz",
   "homepage": "https://github.com/HereLiesAz/azphalt-piper-en",
   "assets": [
     {
